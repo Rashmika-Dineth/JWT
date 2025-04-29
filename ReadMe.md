@@ -69,3 +69,9 @@ app.listen(5000, () => {
   console.log("Backend running at http://localhost:5000");
 });
 ```
+
+#### 4. Start the Server
+
+```bash
+node server.js
+```
