@@ -18,3 +18,11 @@ mkdir jwt-auth-backend
 cd jwt-auth-backend
 npm init -y
 ```
+
+![](Images/1.png)
+
+### 2. Install Required Packages
+
+```bash
+npm install express cors jsonwebtoken
+```
